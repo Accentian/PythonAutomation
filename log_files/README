@@ -1,1 +1,3 @@
 This folder contains log.lammps file used for testing.
+
+Additionally, there is a Jupyter Notebook Python script used for processing the log.lammps script. 
