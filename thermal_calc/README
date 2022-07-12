@@ -1,1 +1,4 @@
 Scripts used to handle thermal calculations (properties and conductivity).
+
+Best version:
+thermal_conductivity_calculations.ipynb 
